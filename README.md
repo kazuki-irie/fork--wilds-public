@@ -6,7 +6,7 @@ For general instructions, please refer to the original repositiory.
 
 This repository contains code used to produce experimental results presented in:
 
-[Improving Baselines in the Wild](openreview) (link coming soon)
+[Improving Baselines in the Wild](https://openreview.net/forum?id=9vxOrkNTs1x)
 
 Apart from minor edits, the only main changes we introduce are:
 * `--validate_every` flag (default: `1000`) to specify the frequency (number of training steps) of cross-validation/checkpoint tracking.
