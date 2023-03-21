@@ -17,7 +17,7 @@ Apart from minor edits, the only main changes we introduce are:
 NB: To reproduce the numbers from the paper, the right PyTorch version must be used.
 All our experiments have been conducted using `1.9.0+cu102`, except for `+ higher lr` rows in Table 2/FMoW (which we ran for the camera-ready and for the public release) for which `1.10.0+cu102` was used.
 
-The training scripts, logs, and model checkpoints for the best configurations from our experiments can be found here for [iWildCam & FMoW](https://people.idsia.ch/~kazuki/work/wilds).
+The training scripts, logs, and model checkpoints for the best configurations from our experiments can be downloaded from [here for iWildCam & FMoW](https://drive.google.com/file/d/17Wwg9xJCsP1NLv5Ic5xO_FV8gVqIBChs/view?usp=sharing).
 
 ### iWildCam
 CV based on "Valid F1"
